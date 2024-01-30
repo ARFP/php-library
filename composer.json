@@ -1,0 +1,18 @@
+{
+    "name": "mdevoldere/php-library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mdevoldere\\PhpLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mdevoldere206",
+            "email": "mdevoldere@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
